@@ -1,3 +1,4 @@
 C# Templates Updated
 Python Templates
 JS Templates
+SQL Templates
